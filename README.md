@@ -31,27 +31,27 @@ To demonstrate the techniques and tools we will focus on healthcare and finance 
 1. **Introduction to Data-Centric AI**
     - Model-Centric AI versus Data-Centric AI
     - Overview of Imperfect Data (Imbalanced Data, Inconsistent Data, Redundant Data, Shifted Data, Irrelevant Data, Noisy Data, Redundant Data, Small Data, Overlapped Data, Missing Data)
-- **Hands-on:** Virtual environments with [conda](https://docs.conda.io/en/latest/) and [pip](https://pypi.org/project/pip/)
+    - **Hands-on:** Virtual environments with [conda](https://docs.conda.io/en/latest/) and [pip](https://pypi.org/project/pip/)
 
 2. **Data Complexity**
     - Meta-learning and Meta-features
     - Data Complexity Measures and Data Difficulty Factors
-- **Hands-on:** [pymfe](https://pymfe.readthedocs.io/en/latest/index.html), [pyhard](https://ita-ml.gitlab.io/pyhard/), [problexity](https://problexity.readthedocs.io/en/latest/)
+    - **Hands-on:** [pymfe](https://pymfe.readthedocs.io/en/latest/index.html), [pyhard](https://ita-ml.gitlab.io/pyhard/), [problexity](https://problexity.readthedocs.io/en/latest/)
 
 3. **Missing Data**
     - Introduction to Missing Data theory
     - Motivation for Missing Data Imputation
-- **Hands-on:** [mdatagen](https://pypi.org/project/mdatagen/), [scikit-learn]() for imputation
+    - **Hands-on:** [mdatagen](https://pypi.org/project/mdatagen/), [scikit-learn]() for imputation
 
 4. **Imbalanced Data**
     - Introduction to Imbalanced Data Learning
     - Strategies for Data Resampling: Oversampling vs. Undersampling
-- **Hands-on:** [imbalanced-learn](https://imbalanced-learn.org/stable/)
+    - **Hands-on:** [imbalanced-learn](https://imbalanced-learn.org/stable/)
 
 5. **Data Fairness**
     - Introduction to Data Fairness
     - Sources of Bias and Fairness Metrics
-- **Hands-on:** [aif360](https://aif360.res.ibm.com), [fairml](https://github.com/adebayoj/fairml)
+    - **Hands-on:** [aif360](https://aif360.res.ibm.com), [fairml](https://github.com/adebayoj/fairml)
 
 6. **Conclusion and Take-Home Message**:
     - Summary of the key concepts covered
