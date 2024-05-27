@@ -60,7 +60,7 @@ To demonstrate the techniques and tools we will focus on healthcare and finance 
     - Open avenues in Ethical, Trustworthy, and Responsible AI development
 
 ## Speaker Bios
-<img style="float:left;width:100px;height:100px;  padding-right:10px" src="img/MS.jpeg">
+<img style="float:left;width:100px;height:110px;  padding-right:10px" src="img/MS.png">
 
 **Dr. Miriam Seoane Santos** (ORCID 0000-0002-5912-963X) concluded her Ph.D. in Informatics Engineering in 2022 and is currently an Assistant Professor at the Department of Computer Science of the University of Porto, Portugal. She is a full member of the Cognitive and Media Systems of CISUC and her research spans several topics within data complexity, data difficulty factors, and data intrinsic characteristics with particular implications for AI Ethics and Respon- sible AI. She has published her research across several high-impact journals, currently holding 26 publications, 1053 citations, and a h-index of 12. In 2023, she received the Award for Best Ph.D. Thesis in Artificial Intelligence 2022, promoted by the Portuguese Association in Artificial Intelligence.
 
