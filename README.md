@@ -62,7 +62,7 @@ To demonstrate the techniques and tools we will focus on healthcare and finance 
 ## Speaker Bios
 <img style="float:left;width:100px;height:110px;  padding-right:10px" src="img/MS.png">
 
-**Dr. Miriam Seoane Santos** (ORCID 0000-0002-5912-963X) concluded her Ph.D. in Informatics Engineering in 2022 and is currently an Assistant Professor at the Department of Computer Science of the University of Porto, Portugal. She is a full member of the Cognitive and Media Systems of CISUC and her research spans several topics within data complexity, data difficulty factors, and data intrinsic characteristics with particular implications for AI Ethics and Respon- sible AI. She has published her research across several high-impact journals, currently holding 26 publications, 1053 citations, and a h-index of 12. In 2023, she received the Award for Best Ph.D. Thesis in Artificial Intelligence 2022, promoted by the Portuguese Association in Artificial Intelligence.
+**Dr. Miriam Seoane Santos** (ORCID 0000-0002-5912-963X) concluded her Ph.D. in Informatics Engineering in 2022 and is currently an Assistant Professor at the Department of Computer Science of the University of Porto, Portugal. She is a member of the Laboratory of Artificial Intelligence and Decision Support (LIAAD) at INESC TEC and her research spans several topics within data complexity, data difficulty factors, and data intrinsic characteristics with particular implications for AI Ethics and Responsible AI. She has published her research across several high-impact journals, currently holding 26 publications, 1185 citations, and a h-index of 12. In 2023, she received the Award for Best Ph.D. Thesis in Artificial Intelligence 2022, promoted by the Portuguese Association in Artificial Intelligence.
 
 <img style="float:left;width:100px;height:120px;  padding-right:10px" src="img/PA.jpeg">
 
@@ -71,3 +71,8 @@ To demonstrate the techniques and tools we will focus on healthcare and finance 
 <img style="float:left;width:100px;height:100px;  padding-right:10px" src="img/AF.jpg">
 
 **Dr. Alberto Fernández Hilario** (ORCID ID 0000-0002-6480-8434) is a Full Professor at the Department of Computer Science and Artificial Intelligence of the University of Granada, Spain. His research spans Data Science, Computational Intelligence, Ethics, and Trustworthy Artificial Intelligence, with a particular emphasis on interdisciplinary, applied, and problem- oriented approaches. With over 60 publications, he has received over 10,000 citations, achieving an H-index of 37. He has edited a monograph titled “Learning from Imbalanced Datasets” (2018, Springer Ed.) and received awards such as the "Lofti A. Zadeh" prize from IFSA for the Best Article in 2009-2010, two awards from the University of Granada for Best Publication in Engineering (2013 and 2014), and the "Excellence in Knowledge" award in 2017. Acknowledged as a Highly Cited Researcher in Computer Science in 2017, Dr. Fernández ranks within the top 2% of the most influential researchers globally according to the Stanford ranking. 
+
+
+## Acknowledgements
+This work is financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia, within project LA/P/0063/2020.
+DOI 10.54499/LA/P/0063/2020 | https://doi.org/10.54499/LA/P/0063/2020
