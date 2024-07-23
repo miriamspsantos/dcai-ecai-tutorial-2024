@@ -2,7 +2,7 @@
 
 ## Speakers
 
-* [Miriam Seoane Santos](https://scholar.google.pt/citations?user=isaI6u8AAAAJ&hl=pt-PT), University of Porto
+* [Miriam Seoane Santos](https://scholar.google.pt/citations?user=isaI6u8AAAAJ&hl=pt-PT), LIAAD, INESC TEC, University of Porto
 * [Pedro Henriques Abreu](https://scholar.google.pt/citations?user=nfIVXcMAAAAJ&hl=pt-PT), University of Coimbra
 * [Alberto Fernández Hilario](https://scholar.google.pt/citations?user=FI0eA8kAAAAJ&hl=pt-PT), University of Granada
 
@@ -74,5 +74,5 @@ To demonstrate the techniques and tools we will focus on healthcare and finance 
 
 
 ## Acknowledgements
-This work is financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia, within project LA/P/0063/2020.
-DOI 10.54499/LA/P/0063/2020 | https://doi.org/10.54499/LA/P/0063/2020
+This work is financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia, within project UIDB/50014/2020. DOI 10.54499/UIDB/50014/2020 | https://doi.org/10.54499/uidb/50014/2020
+
