@@ -74,5 +74,5 @@ To demonstrate the techniques and tools we will focus on healthcare and finance 
 
 
 ## Acknowledgements
-This work is financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia, within project UIDB/50014/2020. DOI 10.54499/UIDB/50014/2020 | https://doi.org/10.54499/uidb/50014/2020
+This work is co-financed by Component 5 - Capitalization and Business Innovation of core funding for Technology and Innovation Centres (CTI), integrated in the Resilience Dimension of the Recovery and Resilience Plan within the scope of the Recovery and Resilience Mechanism (MRR) of the European Union (EU), framed in the Next Generation EU, for the period 2021 – 2026.
 
