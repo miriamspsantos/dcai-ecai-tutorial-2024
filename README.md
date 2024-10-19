@@ -6,6 +6,9 @@
 * [Pedro Henriques Abreu](https://scholar.google.pt/citations?user=nfIVXcMAAAAJ&hl=pt-PT), University of Coimbra
 * [Alberto Fernández Hilario](https://scholar.google.pt/citations?user=FI0eA8kAAAAJ&hl=pt-PT), University of Granada
 
+## Tutorial Materials
+To follow along the tutorial, please download the materials [available here](https://bit.ly/3C37TjK).
+
 ## Overview and Motivation
 Over the past decade, Artificial Intelligence (AI) solutions have been driven by the model-centric paradigm, which to some extent neglects the power of data and its role in the data science lifecycle.Models learn from data, and when applied to real-world domains, are inevitably faced with data properties that naturally compromise their behavior (e.g., missing data, class overlap, imbalanced data, biased data, noisy data, leaky data). Therefore, an important part of the success of AI solutions is their ability to **transform imperfect data into intelligent data**, data of sufficient quality to allow classifiers to draw accurate and reliable inferences on the domains.This process of moving from imperfect to intelligent data in a systematic and continuous manner has given rise to the **Data-Centric AI** paradigm, where data became the center-piece for successful AI applications both in research and the industry alike.
 
